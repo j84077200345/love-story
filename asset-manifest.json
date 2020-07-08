@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/love-story/static/css/main.6d138a17.chunk.css",
+    "main.js": "/love-story/static/js/main.6070ade7.chunk.js",
+    "main.js.map": "/love-story/static/js/main.6070ade7.chunk.js.map",
+    "runtime-main.js": "/love-story/static/js/runtime-main.583c57d6.js",
+    "runtime-main.js.map": "/love-story/static/js/runtime-main.583c57d6.js.map",
+    "static/js/2.72f99cbc.chunk.js": "/love-story/static/js/2.72f99cbc.chunk.js",
+    "static/js/2.72f99cbc.chunk.js.map": "/love-story/static/js/2.72f99cbc.chunk.js.map",
+    "index.html": "/love-story/index.html",
+    "precache-manifest.815f2c081534ea978fa348c8942d6226.js": "/love-story/precache-manifest.815f2c081534ea978fa348c8942d6226.js",
+    "service-worker.js": "/love-story/service-worker.js",
+    "static/css/main.6d138a17.chunk.css.map": "/love-story/static/css/main.6d138a17.chunk.css.map",
+    "static/js/2.72f99cbc.chunk.js.LICENSE.txt": "/love-story/static/js/2.72f99cbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.583c57d6.js",
+    "static/js/2.72f99cbc.chunk.js",
+    "static/css/main.6d138a17.chunk.css",
+    "static/js/main.6070ade7.chunk.js"
+  ]
+}
